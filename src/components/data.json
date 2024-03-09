@@ -1,0 +1,72 @@
+{
+    "team":[
+        {
+            "name":"Mike Chiam",
+            "src":"/MikeChiam.jpg",
+            "role":""
+        },
+        {
+            "name": "Edward Tay",
+            "src":"/Edward.jpg",
+            "role":""
+        },
+        {
+            "name": "Jonathan Asherson",
+            "src":"/Jonathan.jpg",
+            "role":""
+        },
+        {
+            "name": "Richard Yap",
+            "src":"/Richard.jpg",
+            "role":""
+        },
+        {
+            "name": "YC Lau",
+            "src":"/YCLau.jpg",
+            "role":""
+        }
+    ],
+    "stages": [
+        {
+            "name":"Stage 1",
+            "description":"Concept Generation & Team Assemble"
+        },
+        {
+            "name":"Stage 2"
+        },
+        {
+            "name":"Stage 3"
+        },
+        {
+            "name":"Stage 4"
+        },
+        {
+            "name":"Stage 5"
+        },
+        {
+            "name":"Stage 6"
+        },
+        {
+            "name":"Stage 7"
+        },
+        {
+            "name":"Stage 8"
+        },
+        {
+            "name":"Stage 9"
+        },
+        {
+            "name":"Stage 10"
+        },
+        {
+            "name":"Stage 11"
+        },
+        {
+            "name":"Stage 12"
+        }
+    ],
+    "about": {
+        "title": "(Meta Web Inu) will be Listing on HOTBIT, BITMART, LATOKEN, LBANK, BITBNS, GATE.IO & MANY MORE BIG EXCHANGES",
+        "description": ""
+    }
+}
